@@ -65,7 +65,7 @@
 <img width="495" alt="image" src="https://user-images.githubusercontent.com/22370622/185787437-af70c76d-3835-4d3c-b266-62321478bf43.png">
 
 #### Стэк  
-Express.js, PostgreSQL, TypeScript, RabbitMQ, Docker  
+Express.js, PostgreSQL, TypeScript, RabbitMQ, Docker, Sequelize  
 
 #### Описание
 Созданы 3 изолированные микросервиса.  
